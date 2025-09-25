@@ -10,4 +10,5 @@ fun main(args: Array<String>) {
     for (i in arrB) {
         print("$i ")
     }
+
 }
